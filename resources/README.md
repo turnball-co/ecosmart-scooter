@@ -10,3 +10,18 @@ I've started my customization process by removing the stock wooden battery cover
 
 I've continued to improve upon and refine the print, adding a cupholder to the base that finds itself right beneath the seat, allowing for convenient storage of a beverage while riding.  The cupholder is designed to securely hold a standard-sized cup or bottle, ensuring it stays in place during the ride.  I've created a few different models of the battery cover including a flat panel, then one that has a slight 15mm increase for space above the increased size of the battery + larger controller on account of the larger 2000w motor.  I've also created the design for a version that would fit two 48v 20ah batteries side by side which finds itself with a bulge up of ~55mm to house the two batteries side by side, and resting upon their sides with the controller setting atop the two batteries spines.
 
+![full-batterycover-parts-short.png](full-batterycover-parts-short.png)
+
+### Short Battery Cover Files
+
+There are 4 files associated with the short battery cover design with one file needing to be printed twice to produce the end components of the battery cover part that "tents" up a bit to allow room for the larger battery and controller.
+
+- [batterycover-short-beginning.stl](batterycover-short-beginning.stl)
+- [batterycover-short-tentendx2.stl](batterycover-short-tentendx2.stl) (x2)
+- [batterycover-short-tentmiddle.stl](batterycover-short-tentmiddle.stl)
+- [batterycover-cupholder-end.stl](batterycover-cupholder-end.stl)
+
+Underneath this cover the battery is placed facedown inside the carriage, then padding is added around the battery to protect it from bumps and vibrations during rides.  The controller is then placed atop the battery with sufficient clearance ensured by the tented portion of the battery cover.
+
+### Dual Battery Cover Files
+There are 4 files associated with the dual battery cover design with one file needing to be printed twice to produce the end components of the battery cover part that "tents" up a bit to allow room for the larger battery and controller.
